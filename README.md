@@ -1,5 +1,9 @@
 # Web-services-SOAP
 
+## Project Structure :
+
+<img width="348" alt="Screen Shot 2022-12-24 at 9 09 30 PM" src="https://user-images.githubusercontent.com/84875875/209449834-6167c9b4-6fb5-44a1-b40d-7a0ca118f142.png">
+
 ## Bank SOAP Web Service :
 
 <img width="1212" alt="Screen Shot 2022-12-24 at 8 49 29 PM" src="https://user-images.githubusercontent.com/84875875/209449409-6ee969bc-252f-4fd9-b288-8d77a01f109a.png">
